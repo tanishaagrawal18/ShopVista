@@ -1,3 +1,5 @@
+ShopVista is a modern e-commerce dashboard built with React and Vite, featuring a clean UI powered by Tailwind CSS. The app fetches product data from a REST API and displays it with category-based filtering, detailed product views, and a form for adding new products. Navigation is handled by React Router, and global state management uses React Context. The sidebar provides dynamic category filters with color-coded indicators, while the main area showcases products and details. The project demonstrates best practices in component architecture, asynchronous data fetching with Axios, and responsive design for a seamless user experience.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
